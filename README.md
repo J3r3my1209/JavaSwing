@@ -2,14 +2,14 @@
 
 Este proyecto implementa tres formularios en **Java Swing** para demostrar el uso de componentes gráficos como `JTextField`, `JRadioButton`, `JCheckBox`, `JLabel` y `JOptionPane`.  
 
-## 📌 Objetivos
+##  Objetivos
 - Captura de datos mediante campos de texto.
 - Selección única con `JRadioButton`.
 - Selección múltiple con `JCheckBox`.
 - Procesamiento de información y cálculos básicos.
 - Presentación de resultados en `JTextField`, `JLabel` y `JOptionPane`.
 
-## 📁 Formularios incluidos
+##  Formularios incluidos
 1. **Operaciones Matemáticas**  
    - Dos valores numéricos ingresados en `JTextField`.  
    - Botones para **Sumar, Restar, Multiplicar y Dividir**.  
@@ -40,7 +40,7 @@ Este proyecto implementa tres formularios en **Java Swing** para demostrar el us
 <img width="381" height="289" alt="image" src="https://github.com/user-attachments/assets/fbb5068e-529a-4571-9eff-d99fbf02512c" />
 
 
-## 🚀 Ejecución
+##  Ejecución
 1. Abrir el proyecto en **IntelliJ IDEA** (o cualquier IDE compatible con Java).  
 2. Configurar el **SDK de Java 17 o superior**.  
 3. Ejecutar cada clase desde su archivo correspondiente:  
@@ -48,11 +48,11 @@ Este proyecto implementa tres formularios en **Java Swing** para demostrar el us
    - `Encuesta.java`  
    - `Intereses.java`  
 
-## 🗂️ Requisitos
+##  Requisitos
 - Java SDK 17+  
 - IntelliJ IDEA / Eclipse / NetBeans  
 - Sistema operativo Windows, macOS o Linux  
 
-## 📦 Repositorio
+##  Repositorio
 Este proyecto está organizado en la carpeta `src/` con cada formulario en su propia clase.  
 Incluye este archivo `README.md` para documentación y referencia académica.
