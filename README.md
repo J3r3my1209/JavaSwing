@@ -53,6 +53,3 @@ Este proyecto implementa tres formularios en **Java Swing** para demostrar el us
 - IntelliJ IDEA / Eclipse / NetBeans  
 - Sistema operativo Windows, macOS o Linux  
 
-##  Repositorio
-Este proyecto está organizado en la carpeta `src/` con cada formulario en su propia clase.  
-Incluye este archivo `README.md` para documentación y referencia académica.
